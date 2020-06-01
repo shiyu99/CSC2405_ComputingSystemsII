@@ -1,2 +1,2 @@
 # CSC2405_ComputingSystemsII
-Course Labs and Projects
+Course (Computing System II) Labs and Projects, written using C language
